@@ -13,7 +13,7 @@
     "@types/optimize-css-assets-webpack-plugin": "1.3.4",
     "@types/uglifyjs-webpack-plugin": "1.1.0",
     "@types/webpack-merge": "4.1.5",
-    "@types/workbox-webpack-plugin": "3.6.1",
+    "@types/workbox-webpack-plugin": "3.6.2",
     "autoprefixer": "9.5.1",
     "copy-webpack-plugin": "4.6.0",
     "css-loader": "2.1.0",
